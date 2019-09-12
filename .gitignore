@@ -1,0 +1,21 @@
+.DS_Store
+node_modules/
+dist/
+.firebase
+package-lock.json
+firebase.json
+.firebasesrc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# local env files
+.env.local
+.env.*.local
